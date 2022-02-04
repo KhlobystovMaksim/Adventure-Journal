@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Adventure journal</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="textcontinue">Continue</string>
+    <string name="adventure_journal">Adventure journal</string>
+    <string name="version_app">Version 1.0.0</string>
+    <string name="map_content_description_text">Для добавления картинок на Карту необходимы разрешения на использования Внешнего Хранилища (External Storage) и доступа к Локации. Спасибо.</string>
+    <string name="open_camera_description_text">Для создания фото и сохранения его на Вашем телефоне необходимы разрешения на использования Камеры и разрешения на использования Внешнего Хранилища (External Storage). Спасибо.</string>
+    <string name="ok">OK</string>
+    <string name="close">CLOSE</string>
+    <string name="add_your_comment_hint">Добавьте свой комментарий</string>
+</resources>

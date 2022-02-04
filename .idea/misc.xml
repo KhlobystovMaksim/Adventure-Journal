@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/background_dialog.xml" value="0.2518518518518518" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/btn_top.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/ic__email.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.1345" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/ic_email.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/ic_lo.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/ic_lock.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/ic_login_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/ic_person.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/ic_personb.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/ic_register_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/login_btn_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/pic_for_btn_photo.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/round_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/round_border.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/drawable/wave.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/layout/activity_login_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/layout/activity_map.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/layout/activity_register.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/layout/activity_splash_screen.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/layout/preview_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/layout/previewdialog.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/xml/file_path.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyProjectForInternship/app/src/main/res/xml/slide_from_right.xml" value="0.22327898550724637" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
